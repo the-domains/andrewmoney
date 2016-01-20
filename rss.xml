@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[AndrewMoney]]></title>
         <description><![CDATA[AndrewMoney]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andrewmoney/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 20:21:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jan 2016 20:26:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andrewmoney/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Testing The Grid Beta]]></title>
-            <description><![CDATA[<article><h1>Testing The Grid Beta</h1><p>First test post on The Grid</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4080de5c-eaa0-4073-a095-151237c60d2a.jpg"></article>]]></description>
-            <link>undefinedtesting-the-grid-beta/index.html</link>
+            <description><![CDATA[<article><h1>Testing The Grid Beta</h1><p>Just using some famed "lorem ipsum" text for now...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcd278ca4cb832d8dc35fa4ede358d74d25d0d25.jpg"></article>]]></description>
+            <link>https://thegrid.ai/andrewmoney/testing-the-grid-beta/index.html</link>
             <guid isPermaLink="false">d3bf9406-90b2-461d-9c97-653bdeb7a5d1</guid>
-            <pubDate>Wed, 20 Jan 2016 20:21:33 GMT</pubDate>
+            <pubDate>Wed, 20 Jan 2016 20:26:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
