@@ -1,0 +1,28 @@
+name: AndrewMoney
+favicon: null
+layout_spectrum: 0.5406758869066834
+typography_spectrum: 0.7453754465095699
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.13829715154133737
+  lightness: 0.1884061035234481
+  saturation: 0.6766695245169103
+  rhythmicContrast: 0.7750863095279783
+purpose: []
