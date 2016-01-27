@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: First test post on The Grid
-datePublished: '2016-01-20T20:26:49.305Z'
-dateModified: '2016-01-20T20:26:44.799Z'
+datePublished: '2016-01-27T18:14:50.610Z'
+dateModified: '2016-01-27T18:14:42.398Z'
 title: Testing The Grid Beta
 author: []
+sourcePath: _posts/2016-01-20-testing-the-grid-beta.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-20-testing-the-grid-beta.md
-published: true
 url: testing-the-grid-beta/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a58d6d4-53f5-4d69-940d-c76e3a3710f9.jpg)
+
 Just using some famed "lorem ipsum" text for now...
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
