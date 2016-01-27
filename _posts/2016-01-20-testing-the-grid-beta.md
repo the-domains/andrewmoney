@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: First test post on The Grid
-datePublished: '2016-01-27T18:14:50.610Z'
+datePublished: '2016-01-27T18:14:50.638Z'
 dateModified: '2016-01-27T18:14:42.398Z'
 title: Testing The Grid Beta
 author: []
